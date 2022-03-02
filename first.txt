@@ -1,9 +1,7 @@
-My Name is Suneela
+giMy Name is Suneela
 Learning devops
-<<<<<<< HEAD
 akandha is super movie in telugu industry
-=======
 learn something today
 i want become software engineer and develop my capability
 war going on russia and ukraine
->>>>>>> branch-1
+delhi is capital of india
