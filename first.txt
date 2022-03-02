@@ -8,3 +8,4 @@ delhi is capital of india
 i like cricket
 i like ice cream
 stay safe 
+ html is used to create web pages
